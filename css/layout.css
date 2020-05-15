@@ -81,7 +81,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/background.jpg) no-repeat top center;
+   background: #161415 url(../images/background.png) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -879,7 +879,6 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   /*background: #1F1F1F url(../images/background.jpg) no-repeat center right;*/
    background: #2B2B2B;
    min-height: 200px;
    width: 100%;
